@@ -21,7 +21,8 @@
       "commandName": "Project",
       "launchUrl": "weatherforecast",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "PORT": "5000"
       },
       "applicationUrl": "http://localhost:5000",
       "dotnetRunMessages": "true"
